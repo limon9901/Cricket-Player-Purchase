@@ -1,0 +1,101 @@
+[
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV14ep0nWWJMFFZtjp1fDKmmwxaRp_s8gnha8lvEsS_jePU_6nSvge9sMG8udK4GbnBpYW58c9kzXvedr29pq1GdXPQe3bqtHSKebnf30&s=10",
+        "origin": "Bangladesh",
+        "playertype": "All-Rounder",
+        "bowlingStyle": "Slow Left-Arm Orthodox",
+        "battingStyle": "Left-Handed",
+        "price": 120
+    },
+    {
+        "playerName": "Mustafizur Rahman",
+        "playerimg": "https://media.dailynayadiganta.com/original_images/mustafizur.jpg",
+        "origin": "Bangladesh",
+        "playertype": "Bowler",
+        "bowlingStyle": "Left-Arm Fast-Medium",
+        "battingStyle": "Left-Handed",
+        "price": 100
+    },
+    {
+        "playerName": "Virat Kohli",
+        "playerimg": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQ1vV_f18rJFJ99gIKzMXgOuyzrtjlyyylfeoTsnxp3QrOCidc4GcLJrzHiaFJjPQibKp6dwWD3_eqeaJM",
+        "origin": "India",
+        "playertype": "Batsman",
+        "bowlingStyle": "Right-Arm Medium",
+        "battingStyle": "Right-Handed",
+        "price": 150
+    },
+    {
+        "playerName": "Babar Azam",
+        "playerimg": "https://khela71.com/wp-content/uploads/2025/03/Babar-Azam-Khela71.png",
+        "origin": "Pakistan",
+        "playertype": "Batsman",
+        "bowlingStyle": "Right-Arm Off Break",
+        "battingStyle": "Right-Handed",
+        "price": 140
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "playerimg": "https://cdn.britannica.com/35/264735-050-9D24B35E/jasprit-bumrah-india-ICC-mens-T20-cricket-world-cup-june-2024.jpg",
+        "origin": "India",
+        "playertype": "Bowler",
+        "bowlingStyle": "Right-Arm Fast",
+        "battingStyle": "Right-Handed",
+        "price": 130
+    },
+    {
+        "playerName": "Rashid Khan",
+        "playerimg": "https://www.thewall.in/cdn-cgi/image/width=800,quality=60/https://statics.thewall.in/sites/default/files/styles/medium/public/2026-04/WhatsAppImage2026-04-18at18.42.55.jpeg.webp",
+        "origin": "Afghanistan",
+        "playertype": "Bowler",
+        "bowlingStyle": "Right-Arm Leg Break",
+        "battingStyle": "Right-Handed",
+        "price": 125
+    },
+    {
+        "playerName": "Kane Williamson",
+        "playerimg": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/383100/383103.6.jpg",
+        "origin": "New Zealand",
+        "playertype": "Batsman",
+        "bowlingStyle": "Right-Arm Off Break",
+        "battingStyle": "Right-Handed",
+        "price": 110
+    },
+    {
+        "playerName": "Ben Stokes",
+        "playerimg": "https://www.deccanchronicle.com/h-upload/2026/04/15/2031352-la-3197120.webp",
+        "origin": "England",
+        "playertype": "All-Rounder",
+        "bowlingStyle": "Right-Arm Fast-Medium",
+        "battingStyle": "Left-Handed",
+        "price": 145
+    },
+    {
+        "playerName": "Trent Boult",
+        "playerimg": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/399900/399918.6.jpg",
+        "origin": "New Zealand",
+        "playertype": "Bowler",
+        "bowlingStyle": "Left-Arm Fast-Medium",
+        "battingStyle": "Left-Handed",
+        "price": 115
+    },
+    {
+        "playerName": "Jos Buttler",
+        "playerimg": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_800,q_50/lsci/db/PICTURES/CMS/383800/383898.6.jpg",
+        "origin": "England",
+        "playertype": "Wicket-Keeper Batsman",
+        "bowlingStyle": "Right-Arm Medium",
+        "battingStyle": "Right-Handed",
+        "price": 135
+    },
+    {
+        "playerName": "Glenn Maxwell",
+        "playerimg": "https://e0.365dm.com/23/11/1600x900/skysports-glenn-maxwell-australia_6352082.jpg?20250602082518",
+        "origin": "Australia",
+        "playertype": "All-Rounder",
+        "bowlingStyle": "Right-Arm Off Break",
+        "battingStyle": "Right-Handed",
+        "price": 128
+    }
+]
